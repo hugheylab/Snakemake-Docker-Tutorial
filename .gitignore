@@ -1,0 +1,10 @@
+# Workspace
+.vscode/
+.snakemake/
+
+# Python Virtual Environment
+env/
+
+# Working data
+data/
+results/
